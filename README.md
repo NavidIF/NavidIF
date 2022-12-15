@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NavidIF
 - 👀 I’m interested in ... the automotive industry, motorsports, swimming, and being outdoors. 
-- 🌱 I’m currently learning ... math and computer science.
+- 🌱 I’m currently learning ... computer science, math, psychology, and other stuff
 - 💞️ I’m looking to collaborate on ... any project to help boost my knowledge in coding.
 - 📫 How to reach me ... N/A.
 
