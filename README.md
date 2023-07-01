@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NavidIF
+- 👋 Hi, I’m @Parayeets
 - 👀 I’m interested in ... the automotive industry, motorsports, swimming, and being outdoors. 
 - 🌱 I’m currently learning ... computer science, math, psychology, and much more!
 - 💞️ I’m looking to collaborate on ... any project to help boost my knowledge in coding.
